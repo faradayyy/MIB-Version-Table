@@ -1,29 +1,46 @@
 # MIB-Version-Table
 
-| Train version | Generation | Tier | Production | Technische Bezeichnung | Markenbezeichnung | Modelle / Plattformen | Besonderheiten | Jahr |
-|---|---|---|---|---|---|---|---|---|
-| MSTD | MIB1 | Standard | Panasonic | MIB1 Standard | Discover Media / Amundsen / Media System | VW, Skoda, SEAT | Erste MIB1 Standard Plattform | ab ~2013 |
-| MHIG | MIB1 | High | Harman | MIB1 High | Discover Pro / Columbus / Navigation Plus | Audi A3 (8V), VW | Erste High-End Variante | ab ~2013 |
-| MEN2 | MIB2 | Entry | LG | MIB2 Entry | Composition Touch / Swing / Media System Touch / Color | VW, Skoda, SEAT Ibiza (2017) | Basis-System ohne Navigation | ab ~2015 |
-| MST2 (D) | MIB2 | Standard | Delphi (Aptiv) | MIB2 Standard (D) | Composition Media | VW | Delphi Variante | ab ~2015 |
-| MST2 (T) | MIB2 | Standard | Technisat / Preh | MIB2 Standard (T) | Composition Media / Amundsen / Media System | Skoda, SEAT | Technisat Variante | ab ~2015 |
-| MS2p | MIB2 | Standard Plus | Delphi (Aptiv) | MIB2 Standard Plus | Audi Radio Plus | Audi A4 (8W), A5 (F5), Q5 (FY) | Audi-spezifisch | ab ~2016 |
-| MHS2 | MIB2 | Scale | Delphi (Aptiv) | MIB2 Scale | MMI Navigation / Audi connect | Audi A4 (8W), A5 (F5) | Navigation vorbereitet | ab ~2016 |
-| MHI2 | MIB2 | High | Harman / Aisin | MIB2 High | MMI Navigation Plus / Discover Pro / Columbus | Audi TT (FV), A4 (8W), A5 (F5), Q7 (4M) | Erste Einführung TT 2016 | 2016–2018 |
-| MHI2Q | MIB2 | High | Harman + Qualcomm | MIB2 High (Q) | MMI Navigation Plus | Audi | Qualcomm SoC | ab ~2017 |
-| MH2p | MIB2+ | High Plus | Aptiv / Alpine (Multi-Vendor) | MIB2 High Plus | MMI Navigation Plus (MIB2+) | Audi A6 (4A), A7 (4K), A8 (4N), Q7 (4M), Q8 (4M), e-tron (GE) | Neue Generation innerhalb MIB2 | ab ~2018 |
-| PCM 4 / 4.1 | MIB2 | High | Harman | Porsche PCM 4 | Porsche Communication Management | Porsche 911 (992), Cayenne (E3), Macan (95B), Panamera (976) | MIB2-basiert | 2019–2022 |
-| PCM 5 / 5.x | MIB2+ | High Plus | Harman / Aptiv | Porsche PCM 5 | Porsche Communication Management 5.x | Porsche Cayenne (E3), neuere Modelle | MIB2+ Architektur | ab ~2018 |
-| MEN3 | MIB3 | Entry | Panasonic | MIB3 Entry | Composition Color / Swing | VW, Skoda | Entry-Level MIB3 | ab ~2020 |
-| MOI3 (LG) | MIB3 | Standard | LG | MIB3 Standard | Discover Media / Pro / Media System | VW, SEAT | LG Variante | ab ~2020 |
-| MOI3 (Preh/PCC) | MIB3 | Standard | Preh / PCC | MIB3 Standard | Discover Media / Amundsen / Columbus | Skoda | Multi-Vendor | ab ~2020 |
-| MBA3 | MIB3 | Basic | Aptiv | MIB3 Basic | MMI Radio Plus | Audi A3 (8Y), Q3 (F3) | Einstieg Audi MIB3 | ab ~2021 |
-| MHI3 | MIB3 | High | Aptiv | MIB3 High | MMI Navigation | Audi A4 (8W FL), A5 (F5 FL), Q5 (FY), Q7 (4M), Q8 (4M) | Weiterentwicklung | 2020–2021 |
-| MPR3 | MIB3 | Premium | Aptiv | MIB3 Premium | MMI Navigation Plus | Audi A6 (4A), A7 (4K), A8 (4N), e-tron (GE) | High-End | ab ~2021 |
-| MOI3GP (LG) | MIB4 | Standard | LG | MIB3GP / MIB4 | Discover Media / Pro | VW | Neue Plattform | ab ~2023 |
-| MOI3GP (Preh/PCC) | MIB4 | Standard | Preh / PCC | MIB3GP / MIB4 | Discover Media / Amundsen / Columbus | VW, Skoda | Multi-Vendor | ab ~2023 |
-| MOI3EI | MIB4 | Entry | unklar | MIB4 Entry | – | – | nicht eindeutig bestätigt | unklar |
+## MIB1
+| Train version | Generation | Tier | Manufacturer | Audi model / product name | VW model / product name | Skoda model / product name | Seat model / product name | Porsche model / product name | Year (from–to) |
+|---|---|---|---|---|---|---|---|---|---|
+| MENT_xx_xx_xxxx | MIB1 | Entry | Continental | MMI / MMI Radio; A3 (8V) | Composition Touch | Swing | – | – | ~2012–2013 |
+| ????_ | MIB1 | Entry-Plus | Continental | MMI / MMI Radio (extended); A3 (8V) | Composition Touch | Swing | – | – | ~2013 |
+| MSTD_xx_xx_xxxxx | MIB1 | Standard | Panasonic | MMI / MMI Radio; A3 (8V) | Composition / Composition Media / Discover Media | Bolero / Amundsen | Navi System / Media System / Seat Media System | – | ~2012–2014 |
+| MHIG_xx_xx_xxxxx | MIB1 | High | Harman | MMI Navigation / MMI Navigation plus; A3 (8V) | Discover Pro | Columbus | Navi System / Navigation System / Navigation Plus | – | ~2013 |
 
+## MIB2
+| Train version | Generation | Tier | Manufacturer | Audi model / product name | VW model / product name | Skoda model / product name | Seat model / product name | Porsche model / product name | Year (from–to) |
+|---|---|---|---|---|---|---|---|---|---|
+| MEN2_xx_xxxxx_xxxxxx / MEN2_xx_xxxxxx_xxxxx | MIB2 | Entry | LG | – | Composition Touch / Colour; MIB II infotainment broadly confirmed for MY2016 VW lineup | Swing2 / Swing3 | – | – | ~2015–2016 |
+| MST2_xx_xx_xxxxD / CNS2_xx_xx_xxxxD | MIB2 | Standard | Delphi / Aptiv | MMI Radio Plus / MMI Low; A3 (8V FL), A4 (8W), A5 (F5), Q5 (FY) | Composition Media / Discover Media; Beetle, Beetle Convertible, CC, e-Golf, Golf, Golf GTI, Golf SportWagen, Golf R, Jetta, Jetta GLI, Tiguan, Touareg, Passat (MY2016 rollout) | – | – | – | ~2015–2016 |
+| MST2_xx_xx_xxxxT | MIB2 | Standard | Technisat / Preh | MMI Radio plus; A3 (8V FL), A4 (8W), A5 (F5), Q5 (FY) | Composition Media / Discover Media; Beetle, Beetle Convertible, CC, e-Golf, Golf, Golf GTI, Golf SportWagen, Golf R, Jetta, Jetta GLI, Tiguan, Touareg, Passat (MY2016 rollout) | Bolero / Amundsen | Navi System 6P0 / Media System / Seat Media System | – | ~2015–2016 |
+| MS2p_xx_xxxxx_xxxxxD / MS2p_xx_xxxxxx_xxxxxD | MIB2 | Standard Plus | Delphi / Aptiv | Audi Radio Plus; A4 (8W), A5 (F5), Q5 (FY) | – | – | – | – | ~2016 |
+| MHS2_xx_xx_xxxxx / MHS2_xx_xxxxxx_xxxxx | MIB2 | Scale / High Scale / Mid Tier | Delphi / Aptiv | MMI Navigation / Audi Connect; MMI Navigation / MMI Radio plus (Connectivity); Audi Navigation; A4 (8W), A5 (F5) | – | – | – | – | ~2016 |
+| MHI2_xx_xxxxx_xxxxx | MIB2 | High | Harman / Aisin | MMI Navigation Plus / MMI Navigation plus; TT (FV), A4 (8W), A5 (F5), Q7 (4M), A6 (4G), A7 | Discover Pro | Columbus | Navi System Plus / Seat Media System Plus | PCM 4 / PCM 4.1 / Navigation Plus (PCM4 / PCM4.1) | 2016–2018; first Audi introduction confirmed on TT (2016) |
+| MHI2Q_xx_xxxxx_xxxxx | MIB2 | High | Harman + Qualcomm | MMI Navigation Plus / MMI Navigation plus; A4 (8W), A5 (F5), Q5 (FY) | – | – | – | PCM 4.1 (LTE variants) | ~2017 |
+
+## MIB2+
+| Train version | Generation | Tier | Manufacturer | Audi model / product name | VW model / product name | Skoda model / product name | Seat model / product name | Porsche model / product name | Year (from–to) |
+|---|---|---|---|---|---|---|---|---|---|
+| MH2p_xx_xxxxx_xxxxx / MH2p_xx_xxxxxx_xxxxx | MIB2+ | High / High Plus | Aptiv / Alpine (Multi-Vendor) | MMI Navigation Plus / Navigation Plus; A1, A6 (4A), A7 (4K), A8 (4N), Q3, Q7 (4M), Q8 (4M), e-tron (GE) | Discover Premium; Touareg | – | – | PCM 5 / PCM 5.x; Cayenne E3; PCM5 (911, Cayenne, Macan, Panamera) | 2018–2025 |
+
+## MIB3
+| Train version | Generation | Tier | Manufacturer | Audi model / product name | VW model / product name | Skoda model / product name | Seat model / product name | Porsche model / product name | Year (from–to) |
+|---|---|---|---|---|---|---|---|---|---|
+| MEN3_xx_xxxxx_xxxxxx / MEN3_xx_xxxxxx_xxxxx | MIB3 | Entry | Panasonic | – | Composition Color | Swing / Bolero / Bolero (Swing4) | – | – | ~2020 |
+| MOI3_xx_xx_xxxxxx / MOI3_xx_xx_xxxxx | MIB3 | Standard / Option Infotainment | LG / Preh / JOYNEXT / PCC | Standard / Option Infotainment; A4 (8W FL), A5 (F5 FL) | Discover Media / Discover Pro / Discover Pro | Amundsen / Columbus | Media System / Media System Plus / Media System / Plus | – | 2020 |
+| CNS3_xx_xxxxx_xxxxxx / CNS3_xx_xxxxxx_xxxxx | MIB3 | Standard (China / China Market) | JOYNEXT | – | – | Amundsen / Columbus | – | – | 2020 |
+| MBA3_xx_xxxxxx_xxxxx | MIB3 | Basic / Top-Basic | Aptiv | MMI Radio Plus; A3 (8Y), Q3 (F3) | – | – | – | – | 2021 |
+| MHI3_xx_xx_xxxxx / MHI3_xx_xxxxxx_xxxxx | MIB3 | High / Top-High | Aptiv | MMI Navigation; A4 (8W FL), A5 (F5 FL), Q5 (FY), Q7 (4M), Q8 (4M) | – | – | – | – | 2020–2021 |
+| MPR3_xx_xx_xxxxx / MPR3_xx_xxxxxx_xxxxx | MIB3 | Premium / Top-Premium | Aptiv | MMI Navigation Plus; A6 (4A), A7 (4K), A8 (4N), e-tron (GE) | – | – | – | Porsche PCM 5.0 / PCM 5.0* | 2021 |
+
+## MIB4 / MIB3GP
+| Train version | Generation | Tier | Manufacturer | Audi model / product name | VW model / product name | Skoda model / product name | Seat model / product name | Porsche model / product name | Year (from–to) |
+|---|---|---|---|---|---|---|---|---|---|
+| MOI3GP / MOI3GP_xx_xx_xxxxxx | MIB4 (MIB3GP) | Standard / Infotainment | LG / Preh / PCC | – | Discover Media / Pro / Discover Media / Discover Pro | Amundsen / Columbus | – | – | ~2023 |
+| MOI3EI / MOI3EI_xx_xx_xxxxxx | MIB4 (MIB3GP) | Entry / Entry ? | – / unknown | – | – | – | – | – | unknown / unclear |
+
+---
 ## MIB Train-Version Naming Convention
 ```
 <TrainPrefix><Gen><Suffix>_<Region>_<Brand/Variant>_<Platform>_<Version>
