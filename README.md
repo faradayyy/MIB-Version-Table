@@ -1,6 +1,6 @@
-# MIB Infotainment-Übersicht (VAG-Konzern)
+# MIB Infotainment-Overview
 
-> Quellen: Audi SSP, TSBs, DoCs (Harman/Aptiv), Porsche Cayenne PCM 5.X Doku, VW MY2016 Pressetext, SEAT Ibiza 2017 Livret
+> References: Audi SSP, TSBs, DoCs (Harman/Aptiv), Porsche Cayenne PCM 5.X Doku, VW MY2016, SEAT Ibiza 2017 Livret
 
 | Train version | Generation | Tier | Technische Bezeichnung | Manufacturer | Auflösung | Audi Modell / Produktname | VW Modell / Produktname | Skoda Modell / Produktname | Seat Modell / Produktname | Porsche Modell / Produktname | Bentley Modell / Produktname | Lamborghini Modell / Produktname | Jahr (von–bis) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -134,12 +134,12 @@ This is explicitly confirmed in the Aptiv Declaration of Conformity (DoC) for th
 | S | Security Fix |
 
 ### 5. Example:
-MH2pQ_EU_AUG35_ZR_P
+`MH2pQ_EU_AUG35_ZR_P`<br/>
 
-MH2pQ  =    MIB2+ High Plus with Qualcomm
-EU     =    Europe
-AUG35	 =    Audi 10.1” Display
-ZR	   =    Separate Headunit
-P	     =    Productionversion
+MH2pQ  =    MIB2+ High Plus with Qualcomm<br/>
+EU     =    Europe<br/>
+AUG35	 =    Audi 10.1” Display<br/>
+ZR	   =    Separate Headunit<br/>
+P	     =    Productionversion<br/>
 
 Audi MIB2+ High-End System (A6/A7/A8), Europe, Production
