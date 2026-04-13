@@ -1,6 +1,6 @@
 # MIB Infotainment-Overview
 
-| Train version | Generation | Tier | Technische Bezeichnung | Manufacturer | Display | Audi Modell / Productname | VW Modell / Productname | Skoda Modell / Productname | Seat Modell / Productname | Porsche Modell / Productname | Bentley Modell / Productname | Lamborghini Modell / Productname | Jahr (von–bis) | HW | SW | Unit-Label (Teilenummer) |
+| Train version | Generation | Tier | Technische Bezeichnung | Manufacturer | Display | Audi Modell / Produktname | VW Modell / Produktname | Skoda Modell / Produktname | Seat Modell / Produktname | Porsche Modell / Produktname | Bentley Modell / Produktname | Lamborghini Modell / Produktname | Jahr (von–bis) | HW | SW | Unit-Label (Teilenummer) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MENT_xx_xx_xxxx | MIB1 | Entry | MIB1 Entry | Continental | – | MMI Radio; A3 (8V) | Composition Touch | Swing | – | – | – | – | ab ~2012–2013 | – | – | – |
 | ????_ | 〃 | Entry-Plus | MIB1 Entry-Plus | 〃 | – | MMI Radio (erweitert); A3 (8V) | 〃 | 〃 | – | – | – | – | ab ~2013 | – | – | – |
@@ -14,12 +14,13 @@
 | MHI2_xx_xxxxx_xxxxx | 〃 | High | MIB2 High | Harman / Aisin | 1024x640 (G11) / 1280x640 (G13); Porsche: 7" | MMI Navigation plus; TT (FV), A4 (8W), A5 (F5), Q5 (FY), Q7 (4M), R8 (4S) | Discover Pro | Columbus | Seat Media System Plus | Navigation Plus; PCM 4 / PCM 4.1; 718, 911 (991), Cayenne (E2), Macan (95B), Panamera (971) | ?; Train: MHI2_BYSUV / MHI2_BYG24 | – | 2016–2017 | 033 | 0917 | 8W5 035 036 |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 〃 | MMI Navigation plus; A6 (C7PA), A7 (C7PA) | 〃 | 〃 | 〃 | 〃 | 〃 | – | 2016–2018 | – | – | – |
 | MHI2Q_xx_xxxxx_xxxxx | 〃 | 〃 | MIB2 High (Q) | Harman + Qualcomm | – | MMI Navigation plus; A4 (8W), A5 (F5), Q5 (FY) | – | – | – | PCM 4.1 (LTE Varianten) | – | – | ab ~2017 | – | – | – |
-| MH2p_xx_xxxxxx_xxxxx | MIB2+ | High Plus | MIB2 Plus | Alpine | – | MMI Navigation Plus (MIB2+); A1 (GBA) | – | – | – | – | – | – | 2019–2023 | 054 | 2646 | 83A 035 090 A |
+| MH2p_xx_xxxxxx_xxxxx | MIB2+ | Standard | MIB2 Plus | Alpine | 8.8" touch; 1280x720 | MMI Radio / MMI Radio Plus (MIB2+); Q3 (F3) | – | – | – | – | – | – | 2018–2020 | – | – | – |
+| MH2p_xx_xxxxxx_xxxxx | 〃 | High | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); A1 (GBA) | – | – | – | – | – | – | 2019–2023 | 054 | 2646 | 83A 035 090 A |
 | 〃 | 〃 | 〃 | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); A6 (4A) | – | – | – | – | – | – | 2018–2020 | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); A7 (4K) | – | – | – | – | – | – | 2018–2020 | – | – | – |
-| 〃 | 〃 | 〃 | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); A8 (4N) | – | – | – | – | – | – | 2018–2020 | – | – | – |
+| 〃 | 〃 | 〃 | 〃 | 〃 | 10.1" touch; 1540x720 + 8.6" touch; 1280x660 | MMI Radio Plus / MMI Navigation Plus (MIB2+); A8 (4N) | – | – | – | – | – | – | 2018–2020 | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); e-tron (GE) | – | – | – | – | – | – | 2018–2020 | – | – | – |
-| 〃 | 〃 | 〃 | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); Q3 (F3) | – | – | – | – | – | – | 2018–2020 | – | – | – |
+| 〃 | 〃 | 〃 | 〃 | 〃 | 10.1" touch; 1540x720 | MMI Radio Plus mit Nav-Vorbereitung / MMI Navigation Plus (MIB2+); Q3 (F3) | – | – | – | – | – | – | 2018–2020 | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); Q7 (4M) | – | – | – | – | – | – | 2020–2023 | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | – | MMI Navigation Plus (MIB2+); Q8 (4M) | – | – | – | – | – | – | 2018–2020 | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | – | – | – | – | – | – | – | LIS III; Urus | 2018–2023 | – | – | – |
