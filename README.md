@@ -79,6 +79,7 @@ This is explicitly confirmed in the Aptiv Declaration of Conformity (DoC) for th
 | RoW | Rest of the World |
 | RoA | Rest of Asia |
 | TW | Taiwan |
+| WW | WorldWide | No specific reginal version
 
 ### 4. Brand/Variant Codes:
 
@@ -111,6 +112,7 @@ This is explicitly confirmed in the Aptiv Declaration of Conformity (DoC) for th
 | SKGPx | Skoda MEN3 |
 | SKMQB | Skoda MOI3 |
 | VW | Volkswagen |
+| VWPQm | VW Mib2 Entry PQ-Plattform (modular version, so MQB/PQ-Übergang) |
 | VW37W | VW (MHI3) |
 | VWG11 | VW 8” |
 | VWG13 | VW 9.2” (MIB2.5) |
