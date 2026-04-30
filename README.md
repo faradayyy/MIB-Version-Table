@@ -52,6 +52,28 @@
 | MOI3GP | 〃 | High | MIB3 MOI3GP | LG | 15" TFT (J685); 2240x1260 | – | Discover Pro Max; Passat, Tiguan | – | – | – | – | – | ab 2024 | – | – | – |
 | MOI3EI | 〃 | Entry ? | Entry ? | – | – | – | – | – | – | – | – | – | unklar | – | – | – |
 
+## Porsche uses MIB technology, but calls it PCM
+
+Porsche names its infotainment system:
+
+> PCM – Porsche Communication Management
+
+Under the hood, it is technically based on MIB:
+
+| Porsche Generation | Technical Base        | Equivalent            |
+|--------------------|---------------------|----------------------|
+| PCM 3.x            | No MIB              | Custom (QNX-based, different system) |
+| PCM 4.0 (from 2016)| MIB2 High           | Harman MIB2          |
+| PCM 5.0 (from 2019)| MIB3                | LG / Harman          |
+
+### Meaning
+
+A PCM 4.0 system is essentially a Harman MIB2 High, but with:
+- Porsche-specific GUI
+- Porsche applications
+- Porsche backend integration
+
+
 ### [!NOTE] Delphi → Aptiv: Name Change (2018)
 In 2018, Delphi Deutschland GmbH was officially renamed to Aptiv Services Deutschland GmbH.
 Both names refer to the same manufacturer and the same product lines — older units still carry the Delphi branding, while newer ones are labeled Aptiv. Throughout the MIB overview table, this manufacturer is therefore listed as "Delphi / Aptiv".
