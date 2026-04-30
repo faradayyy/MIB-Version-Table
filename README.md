@@ -31,8 +31,9 @@
 | 〃 | 〃 | 〃 | 〃 | 〃 | 9.2" TFT (J685); 1280x640 | – | Discover Pro; Touareg | – | – | – | – | – | 2018–2024 | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 15" TFT curved (J685); 1920x1020 | – | Discover Premium; Touareg | – | – | – | – | – | 2018–2024 | – | – | – |
 | MEN3_xx_xxxxxx_xxxxx | MIB3 | Entry | MIB3 Entry | Panasonic | – | – | Composition Color | Swing | – | – | – | – | ab ~2020 | – | – | – |
-| MOI3_xx_xx_xxxxx | 〃 | Standard / Option Infotainment | MIB3 MOI | LG | 800x400 / 1280x640 | – | Discover Media / Discover Pro | – | Seat Media System / Media System Plus | – | – | – | ab 2020 | – | – | – |
-| 〃 | 〃 | 〃 | 〃 | Preh / PCC | 〃 | – | 〃; Tiguan (AD1/AX1) | Amundsen / Columbus | – | – | – | – | ab 2020 | H22 | 0276 | 3G5 035 820 D |
+| MOI3_xx_xx_xxxxx | 〃 | Standard / Option Infotainment | MIB3 MOI | LG | 800x400 / 1280x640 | – | Discover Media / Discover Pro; Golf 8, Polo, T-Roc, T-Cross, Arteon, Tiguan | – | Seat Media System / Media System Plus | – | – | – | ab 2020 | H56 | 0781 | 3G5 035 820 B |
+| 〃 | 〃 | 〃 | 〃 | Preh / PCC | 〃 | – | 〃; Tiguan (AD1/AX1), Arteon, Passat B8 / CC, Polo, Golf, T-Roc, T-Cross | Amundsen / Columbus; Karoq, Kodiaq, Superb (B8) | – | – | – | – | ab 2020 | H22 | 0276 | 3G5 035 820 D / 3V0 035 816 F |
+| 〃 | 〃 | 〃 | 〃 | JOYNEXT | 〃 | – | Discover Media / Discover Pro; Transporter | Amundsen / Columbus; Superb 3 (B8) | – | – | – | – | ab 2020 | H22 | 0278 | 3G9 035 824 A / 3V0 035 816 G |
 | 〃 | 〃 | 〃 | MIB3 OI nF GP MQB | JOYNEXT | – | – | Discover Media / Discover Pro; Tiguan Allspace (BW2/BJ2) GP | – | – | – | – | – | ab 2024 | H31 | 0442 | 3G8 035 816 |
 | CNS3_xx_xxxxxx_xxxxx | 〃 | Standard (China Market) | MIB3 Standard (China) | JOYNEXT | – | – | – | 〃 | – | – | – | – | ab 2020 | – | – | – |
 | MBA3_xx_xxxxxx_xxxxx | 〃 | Basic | MIB3 Basic | Aptiv | 8.8" MMI touch; 1280x720 | MMI radio plus; A6 (4A) MY2021, A7 (4K) MY2021, Q3 (F3) MY2021 | – | – | – | – | – | – | ab 2021 | – | – | – |
