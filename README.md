@@ -35,6 +35,7 @@
 | 〃 | 〃 | 〃 | 〃 | Preh / PCC | 〃 | – | 〃; Tiguan (AD1/AX1), Arteon, Passat B8 / CC, Polo, Golf, T-Roc, T-Cross | Amundsen / Columbus; Karoq, Kodiaq, Superb (B8) | – | – | – | – | ab 2020 | H22 | 0276 | 3G5 035 820 D / 3V0 035 816 F |
 | 〃 | 〃 | 〃 | 〃 | JOYNEXT | 〃 | – | Discover Media / Discover Pro; Transporter | Amundsen / Columbus; Superb 3 (B8) | – | – | – | – | ab 2020 | H22 | 0278 | 3G9 035 824 A / 3V0 035 816 G |
 | 〃 | 〃 | 〃 | MIB3 OI nF GP MQB | JOYNEXT | – | – | Discover Media / Discover Pro; Tiguan Allspace (BW2/BJ2) GP | – | – | – | – | – | ab 2024 | H31 | 0442 | 3G8 035 816 |
+| 〃 | 〃 | 〃 | MIB3 MOI | Preh / PCC | – | – | 〃 | Amundsen / Columbus | – | – | – | – | ab ~2023 | – | – | – |
 | CNS3_xx_xxxxxx_xxxxx | 〃 | Standard (China Market) | MIB3 Standard (China) | JOYNEXT | – | – | – | 〃 | – | – | – | – | ab 2020 | – | – | – |
 | MBA3_xx_xxxxxx_xxxxx | 〃 | Basic | MIB3 TOP Basic (Audi) | Aptiv | 8.8" MMI touch; 1280x720; 10.1" MMI touch; 1540x720 | MMI radio plus; A6 (4A) MY2021, A7 (4K) MY2021, Q3 (F3) MY2021; MMI navigation plus; Q5 (FY) | – | – | – | – | – | – | ab 2021 | 044 | 3620 | 80A 035 043 F (Audi Q5 (FY)) |
 | MHI3_xx_xxxxxx_xxxxx | 〃 | High | MIB3 High | 〃 | 10.1" MMI touch; 1540x720 | MMI radio plus / MMI navigation plus; A4 (8W FL), A5 (F5 FL) | – | – | – | – | – | – | ab 2020 (MY2020) | – | – | – |
@@ -48,7 +49,6 @@
 | MEB_ | 〃 | Standard | ICAS3 (Elektro) | LG | 〃 | – | VW ID.3, ID.4, ID.5 | – | – | - | – | – | ab 2021 | – | – | – |
 | MOI3EI | MIB4 | Entry ? | Entry ? | – | – | – | – | – | – | – | – | – | unklar | – | – | – |
 | MOI3GP | 〃 | Standard | MIB3 MOI3GP | LG | 12.9" TFT (J685); 1920x1080 | – | Discover Media / Pro; Passat, Tiguan | – | – | – | – | – | ab 2024 | – | – | – |
-| 〃 | 〃 | 〃 | MIB3 MOI | Preh / PCC | – | – | 〃 | Amundsen / Columbus | – | – | – | – | ab ~2023 | – | – | – |
 | 〃 | 〃 | High | MIB3 MOI3GP | LG | 15" TFT (J685); 2240x1260 | – | Discover Pro Max; Passat, Tiguan | KODIAQ II (PS7) | – | – | – | – | ab 2024 | – | – | – |
 | MEBGP_ | 〃 | High | ICAS3GP (Elektro) | LG | 〃 | – | VW ID.4, ID.5, ID.7 PRO/Premium | – | – | - | – | – | ab 2024 | – | – | – |
 | MHI3_2 | 〃 | High | MIB3 TOP 2 HIGH (Audi)| 〃 | – | MMI navigation plus; A1 (GBA) | – | – | – | – | – | – | ab ~2024 | 057 | 4318 | 82A 035 043 K |
