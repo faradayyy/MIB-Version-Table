@@ -45,12 +45,12 @@
 | MPR3_xx_xxxxxx_xxxxx | 〃 | Premium | MIB3 Premium (Audi) | 〃 | 10.1" MMI touch; 1540x720 + 8.6" touch | MMI navigation plus; A6 (4A) MY2021, A7 (4K) MY2021 | – | – | – | – | – | – | ab 2021 (MY2021) | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 〃 | MMI radio plus / MMI navigation plus; A8 (4N) | – | – | – | – | – | – | ab 2021 (MY2021) | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 〃 | MMI radio plus / MMI navigation plus; e-tron (GE) | – | – | – | PCM 5.0 | – | – | ab 2021 (MY2021) | – | – | – |
-| MEB_ | 〃 | Standard | ICAS3 (Elektro) | LG | 〃 | VW ID.3, ID.4, ID.5 | – | – | – | - | – | – | ab 2021 | – | – | – |
+| MEB_ | 〃 | Standard | ICAS3 (Elektro) | LG | 〃 | – | VW ID.3, ID.4, ID.5 | – | – | - | – | – | ab 2021 | – | – | – |
 | MOI3EI | MIB4 | Entry ? | Entry ? | – | – | – | – | – | – | – | – | – | unklar | – | – | – |
 | MOI3GP | 〃 | Standard | MIB3 MOI3GP | LG | 12.9" TFT (J685); 1920x1080 | – | Discover Media / Pro; Passat, Tiguan | – | – | – | – | – | ab 2024 | – | – | – |
 | 〃 | 〃 | 〃 | MIB3 MOI | Preh / PCC | – | – | 〃 | Amundsen / Columbus | – | – | – | – | ab ~2023 | – | – | – |
 | 〃 | 〃 | High | MIB3 MOI3GP | LG | 15" TFT (J685); 2240x1260 | – | Discover Pro Max; Passat, Tiguan | KODIAQ II (PS7) | – | – | – | – | ab 2024 | – | – | – |
-| MEBGP_ | 〃 | Standard | ICAS3GP (Elektro) | LG | 〃 | VW ID.4, ID.5, ID.7 PRO/Premium | – | – | – | - | – | – | ab 2024 | – | – | – |
+| MEBGP_ | 〃 | High | ICAS3GP (Elektro) | LG | 〃 | – | VW ID.4, ID.5, ID.7 PRO/Premium | – | – | - | – | – | ab 2024 | – | – | – |
 | MHI3_2 | 〃 | High | MIB3 TOP 2 HIGH (Audi)| 〃 | – | MMI navigation plus; A1 (GBA) | – | – | – | – | – | – | ab ~2024 | 057 | 4318 | 82A 035 043 K |
 
 ### [!NOTE] Delphi → Aptiv: Name Change (2018)
