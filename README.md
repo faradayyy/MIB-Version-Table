@@ -36,11 +36,10 @@
 | 〃 | 〃 | 〃 | 〃 | JOYNEXT | 〃 | – | Discover Media / Discover Pro; Transporter | Amundsen / Columbus; Superb 3 (B8) | – | – | – | – | ab 2020 | H22 | 0278 | 3G9 035 824 A / 3V0 035 816 G |
 | 〃 | 〃 | 〃 | MIB3 OI nF GP MQB | JOYNEXT | – | – | Discover Media / Discover Pro; Tiguan Allspace (BW2/BJ2) GP | – | – | – | – | – | ab 2024 | H31 | 0442 | 3G8 035 816 |
 | CNS3_xx_xxxxxx_xxxxx | 〃 | Standard (China Market) | MIB3 Standard (China) | JOYNEXT | – | – | – | 〃 | – | – | – | – | ab 2020 | – | – | – |
-| MBA3_xx_xxxxxx_xxxxx | 〃 | Basic | MIB3 Basic | Aptiv | 8.8" MMI touch; 1280x720 | MMI radio plus; A6 (4A) MY2021, A7 (4K) MY2021, Q3 (F3) MY2021 | – | – | – | – | – | – | ab 2021 | – | – | – |
+| MBA3_xx_xxxxxx_xxxxx | 〃 | Basic | MIB3 TOP Basic | Aptiv | 8.8" MMI touch; 1280x720; 10.1" MMI touch; 1540x720 | MMI radio plus; A6 (4A) MY2021, A7 (4K) MY2021, Q3 (F3) MY2021; MMI navigation plus; Q5 (FY) | – | – | – | – | – | – | ab 2021 | 044 | 3620 | 80A 035 043 F (Audi Q5 (FY)) |
 | MHI3_xx_xxxxxx_xxxxx | 〃 | High | MIB3 High | 〃 | 10.1" MMI touch; 1540x720 | MMI radio plus / MMI navigation plus; A4 (8W FL), A5 (F5 FL) | – | – | – | – | – | – | ab 2020 (MY2020) | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 〃 | MMI radio plus / MMI navigation plus; A3 (8Y) | – | – | – | – | – | – | ab 2021 (MY2021) | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 8.8" / 10.1" MMI touch; 1280x720 / 1540x720 | MMI navigation; A6 (4A) MY2021, A7 (4K) MY2021 | – | – | – | – | – | – | ab 2021 (MY2021) | – | – | – |
-| 〃 | 〃 | 〃 | 〃 (Aptiv-Label: MIB3 TOP) | 〃 | 10.1" MMI touch; 1540x720 | MMI radio plus / MMI navigation plus; Q5 (FY) | – | – | – | – | – | – | ab 2021 (MY2021) | 044 | 3620 | 80A 035 043 F |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 10.1" MMI touch; 1540x720 + 8.6" touch | MMI radio plus / MMI navigation plus; Q7 (4M), Q8 (4M) | – | – | – | – | – | – | ab 2021 (MY2021) | – | – | – |
 | 〃 | 〃 | 〃 | 〃 | 〃 | 8.8" / 10.1" MMI touch; 1280x720 / 1540x720 | MMI radio plus mit Nav-Vorbereitung / MMI navigation; Q3 (F3) | – | – | – | – | – | – | ab 2021 (MY2021) | – | – | – |
 | 〃 | 〃 | 〃 | 〃 (Aptiv-Label: MIB3 TOP 2 HIGH) | 〃 | – | MMI navigation plus; A1 (GBA) | – | – | – | – | – | – | ab ~2023 | 057 | 4318 | 82A 035 043 K |
